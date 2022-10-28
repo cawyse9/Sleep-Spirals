@@ -13,8 +13,9 @@ obesity about circadian rhythms and to provide them with tangible evidence of th
 To describe a novel data visualization for communicating longitudinal rhythms in physical activity to children and their parents.
 
 ##  Methods
-<img align="right" width=80 src="https://user-images.githubusercontent.com/29300100/195515689-7d6a3329-e15d-4f60-a135-1f171d68037d.png">
-Following ethical approval daily physical activity was monitored in 29 children presenting for treatment of obesity at a tertiary clinic (Table 1). Data were acquired using a triaxial accelerometer (Geneactiv, UK) that the children wore on the wrist for 7 days. Daily locomotor activity was visualized by plotting a spiral polar bar chart, with the magnitude of acceleration indicated by a colour heatmap to allow visualisation of variations in circadian rhythms over the 7 days of recording. 
+<img align="right" width=150 src="https://user-images.githubusercontent.com/29300100/195515689-7d6a3329-e15d-4f60-a135-1f171d68037d.png">
+Following ethical approval daily physical activity was monitored in 29 children presenting for treatment of obesity at a tertiary clinic (Table 1). Data were acquired using a triaxial accelerometer (Geneactiv, UK) that the children wore on the wrist for 7 days.  
+Data are measurements of gravity (g) in three axes (x, y, z) sampled at 100Hz.  The Euclidean norm (square root of the sum of the squares) of these measurements was used to summarise the information at each time point and the data were binned to 1 minute or 1 hour epochs.  These data are taken to approximate human activity over 24h.  The R package ggplot2 was used to contruct polar plots of activity against time with values represented by tiles or segments.  The level of activity was shown by a colour gradient using the viridis package. Axes and tick mark labels were customised to improve the aesthetic quality of the plot.  This allowed the changes in daily locomotor activity and variations in circadian rhythms over the 7 days of recording to be visualized.
 
 ## Discussion
 
