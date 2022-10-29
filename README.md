@@ -18,6 +18,13 @@ Following ethical approval daily physical activity was monitored in 29 children 
 $~$
 Data are measurements of gravity (g) in three axes (x, y, z) sampled at 100Hz.  The Euclidean norm (square root of the sum of the squares) of these measurements was used to summarise the information at each time point and the data were binned to 1 minute or 1 hour epochs.  These data are taken to approximate human activity over 24h.  The R package ggplot2 was used to contruct polar plots of activity against time with epoch represented by tiles or segments.  The level of activity was shown by a colour gradient using the viridis package. Axes and tick mark labels were customised to improve the aesthetic quality of the plot.  This allowed the changes in daily locomotor activity and variations in circadian rhythms over the 7 days of recording to be visualized.
 
+The R-code is here:
+R scripts with code for processing accelerometer data and for plotting sleep spirals.
+[Processing and cleaning accelerometery raw data](Spirals_data_cleaning](Spirals_data_cleaning.rd)
+[Plotting a sleep spiral in segments or tiles](Spirals_plotting.rd)
+[Batch plotting sprials](Spirals_batch.rd)
+
+
 ## Discussion
 
 There is increasing evidence that disrupted circadian rhythmicity has a role in the pathophysiology of childhood obesity [3-5], possibly though primary disruption of innate circadian timing mechanisms. Circadian rhythms can be manipulated through entrainment by external timing cues such as light and food intake, raising the possibility of clinical interventions in children with obesity based on these mechanisms. Simple and effective methods for measuring circadian rhythms in children are required to facilitate investigation of the potential importance of timing cues in the treatment of children with obesity.
