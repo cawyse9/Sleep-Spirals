@@ -21,7 +21,7 @@ Data are measurements of gravity (g) in three axes (x, y, z) sampled at 100Hz.  
 The R-code is here:
 R scripts with code for processing accelerometer data and for plotting sleep spirals.  
 
-[Processing and cleaning accelerometery raw data](\analysis\Spirals_data_cleaning.R)  
+[Processing and cleaning accelerometery raw data](https://github.com/cawyse9/Sleep-Spirals\analysis\Spirals_data_cleaning.R)  
 
 [Plotting a sleep spiral in segments or tiles](\analysis\Spirals_plotting.R)  
 
