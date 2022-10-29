@@ -18,14 +18,14 @@ Following ethical approval daily physical activity was monitored in 29 children 
 $~$
 Data are measurements of gravity (g) in three axes (x, y, z) sampled at 100Hz.  The Euclidean norm (square root of the sum of the squares) of these measurements was used to summarise the information at each time point and the data were binned to 1 minute or 1 hour epochs.  These data are taken to approximate human activity over 24h.  The R package ggplot2 was used to contruct polar plots of activity against time with epoch represented by tiles or segments.  The level of activity was shown by a colour gradient using the viridis package. Axes and tick mark labels were customised to improve the aesthetic quality of the plot.  This allowed the changes in daily locomotor activity and variations in circadian rhythms over the 7 days of recording to be visualized.
 
-The R-code is here:
-R scripts with code for processing accelerometer data and for plotting sleep spirals.  
-https://github.com/cawyse9/Sleep-Spirals/blob/main/analysis/Spirals_batch%20plot.R
-[Processing and cleaning accelerometery raw data](https://github.com/cawyse9/Sleep-Spirals\analysis\Spirals_data_cleaning.R)  
+The R-code is here:  
 
-[Plotting a sleep spiral in segments or tiles](\analysis\Spirals_plotting.R)  
+[Processing and cleaning accelerometery raw data](/analysis/Spirals_data cleaning.R)  
+
+[Plotting a sleep spiral in segments or tiles](/analysis/Spirals_plotting.R)  
 
 [Batch plotting sprials](https://github.com/cawyse9/Sleep-Spirals/blob/main/analysis/Spirals_batch%20plot.R)  
+
 
 ## Discussion
 
