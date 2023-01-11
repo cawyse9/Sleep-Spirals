@@ -26,13 +26,9 @@ The R-code is here:
 [Batch plotting sprials](https://github.com/cawyse9/Sleep-Spirals/blob/main/analysis/Spirals_batch%20plot.R)  
 
 
-## Discussion
 
-There is increasing evidence that disrupted circadian rhythmicity has a role in the pathophysiology of many chronic diseases such as obesity, diabetes and depression [3-5], possibly though primary disruption of innate circadian timing mechanisms. Circadian rhythms can be manipulated through entrainment by external timing cues such as light and food intake, raising the possibility of clinical interventions based on these mechanisms. Simple and effective methods for measuring circadian rhythms are required to facilitate investigation of the potential importance of timing cues in medical interventions.
 
-Unlike previous visualisations of circadian rhythms, sleep spirals present weekly data as a continuum, showing how disruption accumulates across days, and allowing simultaneous interpretations of physical activity levels through colour change. Sleep spirals are a novel way of educating people about their activity levels and circadian rhythms. They have potential application for engaging patients in their treatment, and for conveying the impact of interventions to modify the rhythmicity and level of physical activity. Sleep spirals convey information on 3 parameters that are important in obesity (i) circadian rhythms, (ii) sleep timing and (iii) physical activity. These are simultaneously displayed using colour gradients, and visual patterns. Sleep spirals capture trends in physical activity and circadian rhythms in a single colourful data plot, that can increase children’s engagement and understanding of interventions to modify circadian rhythms, activity and sleep.
 
-## Conclusions
 Novel methods for monitoring circadian rhythms could be useful clinical tools in the management of many chronic diseases. Capturing clinical information through data visualisations such as sleep spirals is an innovative way of engaging patients in treatment and of incentivising lifestyle change.
 
 ## Acknowledgements
@@ -41,14 +37,4 @@ Novel methods for monitoring circadian rhythms could be useful clinical tools in
 
 Dr Lorna Lopez, School of Biology, Maynooth University, Maynooth  
 Dr Grace O’Malley, School of Physiotherapy, Royal College of Surgeons in Ireland, Beaux Lane House, Dublin
-
-## References
-1. Panda S. Circadian physiology of metabolism. Science. 2016; 354(6315):1008-1015
-2. Roenneberg T, Allebrandt KV, Merrow M, Vetter C. Social jetlag and obesity. Curr Biol. 2012; 22(10):939-43
-3. Cespedes Feliciano EM, Rifas-Shiman SL, Quante M, Redline S, Oken E, Taveras EM. Chronotype, Social Jet Lag, and Cardiometabolic Risk Factors in Early Adolescence.
-JAMA Pediatr. 2019; 173(11):1049–57
-4. Simon SL, Behn CD, Cree-Green M, Kaar JL, Pyle L, Hawkins SMM, Rahat H, Garcia-Reyes Y, Wright KP Jr, Nadeau KJ. Too Late and Not Enough: School Year Sleep
-Duration, Timing, and Circadian Misalignment Are Associated with Reduced Insulin Sensitivity in Adolescents with Overweight/Obesity. J Pediatr. 2019; 205:257-264
-5. Quante M, Cespedes Feliciano EM, Rifas-Shiman SL, Mariani S, Kaplan ER, Rueschman M, Oken E, Taveras EM, Redline S. Association of Daily Rest-Activity Patterns With
-Adiposity and Cardiometabolic Risk Measures in Teens. J Adolesc Health. 2019; 65(2):224-231
 
