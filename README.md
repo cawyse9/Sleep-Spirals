@@ -27,10 +27,6 @@ The R-code is here:
 
 
 
-
-
-Novel methods for monitoring circadian rhythms could be useful clinical tools in the management of many chronic diseases. Capturing clinical information through data visualisations such as sleep spirals is an innovative way of engaging patients in treatment and of incentivising lifestyle change.
-
 ## Acknowledgements
 <img align="right" height=80 src="https://user-images.githubusercontent.com/29300100/195516741-adf8db9d-c284-4667-967b-9469ca2428b5.png"> <img align="right" height=80 src="https://user-images.githubusercontent.com/29300100/195517055-f7731b8e-8d6b-4915-88ea-52e9427d8a04.png">
 
